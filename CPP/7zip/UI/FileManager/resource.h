@@ -114,6 +114,7 @@
 #define IDM_BENCHMARK            901
 #define IDM_BENCHMARK2           902
 #define IDM_TEMP_DIR             910
+#define IDM_PASSWORD_MANAGER     911
 
 #define IDM_HELP_CONTENTS        960
 #define IDM_ABOUT                961
